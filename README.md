@@ -12,13 +12,8 @@
 2. Css
 3. JS
 
-##### this is my Linkedin account
-[Linkedin](www.linkedin.com/in/mais-ghaith-791b33244)
+##### this is my accounts 
 
-##### my Facebook account
-[Facebook](https://www.facebook.com/mais.ghaith)
-
-
-|Head 1| Head 2|
+|1| 2|
 ---|---|
 [Linkedin](www.linkedin.com/in/mais-ghaith-791b33244)| [Facebook](https://www.facebook.com/mais.ghaith)|
