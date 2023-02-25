@@ -12,5 +12,5 @@
 2. Css
 3. JS
 
-##### this is my Linkedin account
+##### > this is my Linkedin account
 [Linkedin] (www.linkedin.com/in/ mais-ghaith-791b33244)
