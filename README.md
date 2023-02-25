@@ -8,6 +8,6 @@
 * python
 
 #### and I would like to learn some other 
-1.Html
-2.Css
-3.JS
+1. Html
+2. Css
+3. JS
